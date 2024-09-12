@@ -1,4 +1,6 @@
-https://cybersword.tech
+# tech.cybersword.usb
+
+BETA: tool for folder observation on USB
 
 #Maven build  
 `~/java_env/maven/bin/mvn archetype:generate -DgroupId=tech.cybersword -DartifactId=tech.cybersword.usb -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false`  
